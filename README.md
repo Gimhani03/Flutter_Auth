@@ -1,6 +1,6 @@
 # Flutter Auth
 
-A Flutter authentication app demonstrating Firebase Auth integration for user sign up, sign in, and sign out. This project is suitable for learning and as a starter template for authentication-based Flutter apps.
+This authentication module was created by me for a university group project—a medicine delivery mobile app. It demonstrates Firebase Auth integration for user sign up, sign in, and sign out. This project is suitable for learning and as a starter template for authentication-based Flutter apps.
 
 ## Features
 
